@@ -10,6 +10,7 @@ use Auth;
 use Hash;
 use Validator;
 //This is for testing purposes. 
+//This is for testing purposes Another one. 
 
 class HeroesController extends ApiGuardController{
     
